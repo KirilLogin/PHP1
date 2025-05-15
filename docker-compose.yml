@@ -17,7 +17,7 @@ services:
       - ./public:/var/www/html
 
   php-cli:
-    image: php:8.2-cli
+    image: php:7.4-cli
     volumes:
       - ./public:/var/www/html
     working_dir: /var/www/html
