@@ -1,6 +1,6 @@
 # PHP1
 ## Изменится ли вывод?
-Да
+# Да
 bool(true)
 int(12345)
 bool(false)
